@@ -1,7 +1,0 @@
-<?php
-// Deklarasi & inisialisai
-
-
-// Deskripsi
-
-?>

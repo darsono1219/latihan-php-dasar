@@ -1,6 +1,0 @@
-<?php
-// deklarasi
-
-
-//deskripsi
-?>
