@@ -14,7 +14,6 @@
 // function rumus pangkat
 
 
-// Deklarasi
 
 // Deskripsi
 

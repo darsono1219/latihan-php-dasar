@@ -1,7 +1,7 @@
 <?php
 // gunakan function Return
 
-// function rumus luas kubus
+// function rumus tambah
 
 // function rumus kurang
 
@@ -13,7 +13,6 @@
 
 // function rumus pangkat
 
-// Deklarasi
 
 // Deskripsi
 
